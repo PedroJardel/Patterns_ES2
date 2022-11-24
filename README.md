@@ -18,3 +18,5 @@ A classe original, chamada context, deve possuir um campo para armazenar uma ref
 O context não é responsável por selecionar um algoritmo apropriado para o trabalho. Em vez disso, o cliente passa a estratégia desejada para o context. Funciona com todas as estratégias através de uma mesma interface genérica, que expõe apenas um único método para acionar o algoritmo encapsulado na estratégia selecionada.
 
 Desta forma o context se torna independente de estratégias concretas, então você pode adicionar novos algoritmos ou modificar os existentes sem alterar o código do context ou outras estratégias.
+
+### [Link da apresentação](https://drive.google.com/drive/folders/1l4A98iyVg-E9BE83sciKc3U0zbnsI_be?usp=share_link)
